@@ -23,7 +23,6 @@ This project are Created for Education Purpose Only. Do not use this for commerc
 ## Roadmap
 I've no plan to continues development of this game yet.
 Go to [open issues](https://github.com/FudanshIKun/CGE499-Online-Multiplayer-Game-Development/issues) to propose any ideas, you wish for!
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
